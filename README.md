@@ -1,4 +1,4 @@
-##College Name - BMS Institute of Technology and Management
+*College Name - BMS Institute of Technology and Management*
 
 
 ##Department - ISE
